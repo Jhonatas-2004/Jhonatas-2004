@@ -6,7 +6,8 @@ Sou junior em Desenvolvimento de Sistemas, em busca de cohecimentos nas mais div
 
 ># 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="50" height="50"/>&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript Logo" width="50" height="50"/>&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript Logo" width="50" height="50"/>&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git Logo" width="50" height="50"/>&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="Mysql Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="50" height="50"/>&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript Logo" width="50" height="50"/>&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript Logo" width="50" height="50"/>&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git Logo" width="50" height="50"/>&nbsp;<img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"alt=" alt= "Git Logo" width="50" height="50"/> src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="Mysql Logo" width="50" height="50"/>
 <div
 
   <div> 
