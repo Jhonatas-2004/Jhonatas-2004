@@ -18,5 +18,3 @@ Sou junior em Desenvolvimento de Sistemas, em busca de cohecimentos nas mais div
 ># My Github Status
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jhonatas-2004&show_icons=true&theme=dracula"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonatas-2004&layout=compact&langs_count=6&theme=dracula"/>
-
-![Snake animation](https://github.com/Jhonatas-2004/Jhonatas-2004/blob/output/github-contribution-grid-snake.svg)
