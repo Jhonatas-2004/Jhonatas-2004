@@ -6,7 +6,7 @@ Sou junior em Desenvolvimento de Sistemas, em busca de cohecimentos nas mais div
 
 ># 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="50" height="50"/>&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript Logo" width="50" height="50"/>&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript Logo" width="50" height="50"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="Git Logo" width="50" height="50" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Git VS" width="50" height="50" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Git PS" width="50" height="50" />;&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="50" height="50"/>&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript Logo" width="50" height="50"/>&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript Logo" width="50" height="50"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="Git Logo" width="50" height="50" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Git VS" width="50" height="50" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Git PS" width="50" height="50" />&nbsp;
           
 
 
