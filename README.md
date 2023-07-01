@@ -1,7 +1,4 @@
-# Olá meu nome é Jhonatas Souza
-
-[![Linkedin Badge](https://img.shields.io/badge/-Jhonatas%-%2004-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jhonatas-souza-628b0a24a/))
-[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:jhonatassantos2004@gmail.com)
+# Olá meu nome é Jhonatas Souza, sou Desenvolvedor Júnior!
 
 Sou junior em Desenvolvimento de Sistemas, em busca de cohecimentos nas mais diversas áreas do T.I, mas estou me especializando em desenvolvedor front-end
 
